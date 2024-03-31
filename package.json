@@ -11,7 +11,10 @@
   "dependencies": {
     "@clerk/nextjs": "^4.29.9",
     "@hookform/resolvers": "^3.3.4",
+<<<<<<< HEAD
     "@radix-ui/react-alert-dialog": "^1.0.5",
+=======
+>>>>>>> 10a46a75dfef4c0574094197caa047062836a3da
     "@radix-ui/react-dialog": "^1.0.5",
     "@radix-ui/react-label": "^2.0.2",
     "@radix-ui/react-select": "^2.0.0",
